@@ -13,6 +13,7 @@
 * bootstrap/start.php
 * app/routes.php
 * app/config/database.php
+* .gitignore
 
 ## Mark Hanson's website
 
