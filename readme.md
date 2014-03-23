@@ -1,4 +1,4 @@
-## Laravel Example Environments Variables
+## Laravel Example Environment Variables
 
 ### Post Cloning
 
